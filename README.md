@@ -8,6 +8,14 @@
 
 Скоро будут новые апдейты!
 
+## 🕹 Controls / Управление
+
+| Action / Действие | Function / Функция |
+| :--- | :--- |
+| **Single Click** / Одно нажатие | **Start TV-B-Gone** (EU & NA) |
+| **Double Click** / Двойной клик | **Activate Jammer** (38kHz) |
+| **Click (during Jammer)** / Нажатие во время работы | **Stop Jammer** / Остановить |
+
 ---
 
 ## 🌍 English Description
