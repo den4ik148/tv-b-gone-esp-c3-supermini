@@ -4,7 +4,7 @@
 ![Framework](https://img.shields.io/badge/Framework-Arduino-blue?style=flat-square&logo=arduino)
 ![MCU](https://img.shields.io/badge/MCU-ESP32--C3-green?style=flat-square&logo=espressif)
 
-Компактный и мощный инструмент для выключения телевизоров. Портированная и оптимизированная версия классического **TV-B-Gone** (v1.2) специально для форм-фактора **ESP32-C3 Super Mini**. 
+Компактный и мощный инструмент для выключения телевизоров. Портированная и оптимизированная версия классического **TV-B-Gone** специально для форм-фактора **ESP32-C3 Super Mini**. 
 
 ---
 
