@@ -60,6 +60,10 @@
 
 ---
 
+**Contact:**
+Discord: den4ik4774
+Telegram: den4ik148
+
 ## ⚠️ Disclaimer / Отказ от ответственности
 * **English**: This project is for educational purposes only. I am not responsible for any misuse. Don't be a nuisance in public places.
 * **Русский**: Проект создан исключительно в образовательных целях. Автор не несет ответственности за ваши действия. Пожалуйста, не мешайте людям в общественных местах.
